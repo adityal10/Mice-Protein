@@ -12,3 +12,13 @@
  behavior.
 - The dataset has 82 attributes: 1 for Mouse ID, 77 for protein expression levels, 1 for genotype, 1 for treatment, 1 for behavior, and 1 for class.
 -The mice are divided into different groups based on their genotype (control or trisomic, which represents Down syndrome), treatment (memantine or saline), and behavior (context-shock or shock-context).
+
+### Clustering Algorithms used
+1. Agglomerativ Clustering
+2. K-Means Clustering
+3. DBSCAN
+
+with **PCA**
+1. DBSCAN
+2. Hierarchical Clustering
+3. K-Means Clustering
